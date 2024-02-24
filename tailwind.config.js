@@ -8,7 +8,8 @@ module.exports = withMT({
   theme: {
     extend: {
       fontFamily: {
-        custom: ["vineritc", "san-serif"],
+        vinertic: ["vineritc", "san-serif"],
+        Homemade: ["Homemade Apple", "cursive"],
       },
     },
   },

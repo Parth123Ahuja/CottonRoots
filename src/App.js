@@ -3,7 +3,7 @@ import HomePage from "./pages/HomePage";
 import AboutPage from "./pages/AboutPage";
 import DressPage from "./pages/DressPage";
 import { NavbarDefault } from "./components/NavbarDefault";
-import NavbarNew from "./components/NavbarNew";
+
 import Footer from "./components/Footer";
 
 const router = createBrowserRouter([
